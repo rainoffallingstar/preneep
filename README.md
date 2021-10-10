@@ -1,7 +1,8 @@
 ### preNEEP
 
-#### 介绍
+#### INTRO
 plans for NEEP，the current datas，the outlines，the issues
+![it is time](https://images.gitee.com/uploads/images/2021/1010/211050_69f09a8e_8192230.jpeg "1633871402896.jpg")
 
 #### [Section 1 outlines](https://gitee.com/rainoffallingstar/preneep/blob/master/Section%201%20outlines.md)
 #### [Section 2 ISSUES SUM](https://gitee.com/rainoffallingstar/preneep/blob/master/Section%202%20ISSUES%20SUM.md)
